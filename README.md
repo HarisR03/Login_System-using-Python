@@ -1,6 +1,6 @@
 # Login_System-using-Python
 
-STAGE -- 1
+##STAGE -- 1
 
 Registration:
 
